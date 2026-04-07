@@ -55,5 +55,9 @@
         "typeinfo": "cpp",
         "variant": "cpp",
         "stdio.h": "c"
-    }
+    },
+    "java.project.sourcePaths": [
+        "java"
+    ],
+    "cmake.sourceDirectory": "C:/Users/ninaj/OneDrive/Documents/GitHub/vscode/flutter/dothisbro/windows/flutter"
 }
